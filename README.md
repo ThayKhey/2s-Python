@@ -1,1 +1,2 @@
-# 2s-Python
+# Python
+Segundo semestre
